@@ -59,10 +59,27 @@ public class EnemyController : MonoBehaviour
             {
                 other.gameObject.GetComponent<PlayerController>().KnockBack(-knockbackForce, upKnockback); // knockback åt vänster
             }
+            TempCollisionDisable(); // ska inte kunna döda enemien som knuffat dig uppåt
 
             //other.gameObject.GetComponent<PlayerController>().TakeDamage(enemyDmg); // skada spelaren 
 
 
+        }
+    }
+
+    public void TempCollisionDisable()
+    {
+        foreach (var collider in GetComponents<BoxCollider2D>())
+        {
+            collider.enabled = false;
+        }
+        Invoke("EnableCollision", 0.5f);
+    }
+    public void EnableCollision()
+    {
+        foreach (var collider in GetComponents<BoxCollider2D>())
+        {
+            collider.enabled = true;
         }
     }
 
