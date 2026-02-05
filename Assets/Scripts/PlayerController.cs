@@ -1,4 +1,4 @@
-using Unity.VisualScripting;
+
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -36,7 +36,7 @@ public class PlayerController : MonoBehaviour
         playerInput = GetComponent<PlayerInput>();
 
 
-        jumpAction = playerInput.actions["Jump"];
+        jumpAction = playerInput.actions["Jump"]; 
         moveAction = playerInput.actions["Move"];
     }
 

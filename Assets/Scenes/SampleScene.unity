@@ -1754,7 +1754,23 @@ MonoBehaviour:
   m_ControlsChangedEvent:
     m_PersistentCalls:
       m_Calls: []
-  m_ActionEvents: []
+  m_ActionEvents:
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: 00985531-2592-4b7d-b9c6-6331d8681de1
+    m_ActionName: 'Land/Move[/Keyboard/a,/Keyboard/leftArrow,/Keyboard/d,/Keyboard/rightArrow]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: ed94b86b-65ee-47cc-891c-41cd57642454
+    m_ActionName: 'Land/Jump[/Keyboard/space]'
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: cc2621bf-c9b5-415c-b26a-aa146a894b04
+    m_ActionName: Land/DashRoll
+  - m_PersistentCalls:
+      m_Calls: []
+    m_ActionId: c3b1993c-a14e-4cfd-a359-4101be5114cc
+    m_ActionName: 'Land/Climb[/Keyboard/w,/Keyboard/upArrow]'
   m_NeverAutoSwitchControlSchemes: 0
   m_DefaultControlScheme: 
   m_DefaultActionMap: Land
