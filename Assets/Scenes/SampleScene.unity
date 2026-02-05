@@ -571,7 +571,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   playerPos: {fileID: 1410723143}
-  offset: {x: 0, y: 0, z: -10}
+  offset: {x: 2, y: 0, z: -10}
   smoothing: 1
 --- !u!1 &619394800
 GameObject:
