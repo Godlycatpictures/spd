@@ -570,7 +570,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 373da7300f7335c48bebe9e9430b9c2a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: '::'
-  player: {fileID: 1410723143}
+  playerPos: {fileID: 1410723143}
   offset: {x: 0, y: 0, z: -10}
   smoothing: 1
 --- !u!1 &619394800
@@ -1728,6 +1728,8 @@ MonoBehaviour:
     m_Flags: 0
   coyoteTime: 0.1
   coyoteTimer: 0
+  jumpBufferTime: 0.1
+  jumpBufferTimer: 0
 --- !u!114 &1410723146
 MonoBehaviour:
   m_ObjectHideFlags: 0

@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class CameraFollow : MonoBehaviour
 {
-    [SerializeField] private Transform player; // hitta spelare
+    [SerializeField] private Transform playerPos; // hitta spelare
+    private GameObject playerObject;
+    private PlayerController playerController;
     [SerializeField] private Vector3 offset = new Vector3(0, 0, -10);
     [SerializeField] private float smoothing = 1f;
 
@@ -12,13 +14,19 @@ public class CameraFollow : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-
+        playerObject = GameObject.FindWithTag("Player");
+        playerController = playerObject.GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
     void LateUpdate() // late update kommer i slutet av en frame
     {
-        Vector3 newPosition = Vector3.Lerp(transform.position, player.position + offset, smoothing * Time.deltaTime);
+        
+
+        if (playerController.GetDirection() < 0)
+            offset.x = playerPos.position.x; 
+
+        Vector3 newPosition = Vector3.Slerp(transform.position, playerPos.position + offset, smoothing * Time.deltaTime);
 
         transform.position = newPosition;
     }
