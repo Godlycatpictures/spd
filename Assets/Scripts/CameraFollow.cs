@@ -38,6 +38,6 @@ public class CameraFollow : MonoBehaviour
 
 
         Vector3 newPosition = playerPos.position + directionOffset;
-        transform.position = Vector3.Lerp(transform.position, newPosition, smoothing * Time.deltaTime);
+        transform.position = Vector3.Slerp(transform.position, newPosition, smoothing * Time.deltaTime);
     }
 }
