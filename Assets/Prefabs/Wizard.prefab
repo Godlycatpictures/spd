@@ -14,6 +14,7 @@ GameObject:
   - component: {fileID: 6695396230319811954}
   - component: {fileID: 1842149942746494102}
   - component: {fileID: 7643349662736669192}
+  - component: {fileID: 4660475829498588793}
   m_Layer: 9
   m_Name: EvilWizard
   m_TagString: Enemy
@@ -223,6 +224,28 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 4
+--- !u!95 &4660475829498588793
+Animator:
+  serializedVersion: 7
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2321388087537004364}
+  m_Enabled: 1
+  m_Avatar: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 1f10ce6f92e42114f9a6ce24a0501e5a, type: 2}
+  m_CullingMode: 0
+  m_UpdateMode: 0
+  m_ApplyRootMotion: 0
+  m_LinearVelocityBlending: 0
+  m_StabilizeFeet: 0
+  m_AnimatePhysics: 0
+  m_WarningMessage: 
+  m_HasTransformHierarchy: 1
+  m_AllowConstantClipSamplingOptimization: 1
+  m_KeepAnimatorStateOnDisable: 0
+  m_WriteDefaultValuesOnDisable: 0
 --- !u!1 &2822713384255194710
 GameObject:
   m_ObjectHideFlags: 0
