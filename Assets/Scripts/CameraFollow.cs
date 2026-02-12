@@ -5,7 +5,7 @@ using UnityEngine;
 public class CameraFollow : MonoBehaviour
 {
     [SerializeField] private Transform playerPos; // hitta spelare
-    private GameObject playerObject;
+    
     private PlayerController playerController;
     [SerializeField] private Vector3 offset = new Vector3(2, 0, -10);
     [SerializeField] private float smoothing = 1f;
@@ -15,8 +15,7 @@ public class CameraFollow : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        playerObject = GameObject.FindWithTag("Player");
-        playerController = playerObject.GetComponent<PlayerController>();
+        playerController = GameObject.FindWithTag("Player").GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
