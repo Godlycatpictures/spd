@@ -13,11 +13,13 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private float moveSpeed = 5f;
     [SerializeField] private float jumpForce = 300f;
 
+    //komponenter
     [SerializeField] private Transform leftFoot;
     [SerializeField] private Transform rightFoot;
     [SerializeField] private float rayDistance = 0.25f;
     [SerializeField] private LayerMask groundLayer;
 
+    //typ mer komponenter
     private Rigidbody2D rgbd;
     private SpriteRenderer rend;
 
@@ -25,11 +27,13 @@ public class PlayerController : MonoBehaviour
     [SerializeField] private PlayerInput playerInput;
     [SerializeField] private InputAction jumpAction;
     [SerializeField] private InputAction moveAction;
+    
     //special movement
     [SerializeField] private float coyoteTime = 0.1f;
     [SerializeField] private float coyoteTimer;
     [SerializeField] private float jumpBufferTime = 0.1f;
     [SerializeField] private float jumpBufferTimer;
+
     private void Awake()
     {
         EnableMovement();
@@ -38,6 +42,7 @@ public class PlayerController : MonoBehaviour
 
         jumpAction = playerInput.actions["Jump"]; 
         moveAction = playerInput.actions["Move"];
+        
     }
 
 
@@ -51,7 +56,7 @@ public class PlayerController : MonoBehaviour
 
     private void Update()
     {
-        horizontalValue = moveAction.ReadValue<float>(); // vill typ ha tillgån när som från andra skripts
+        horizontalValue = moveAction.ReadValue<float>(); 
         if (canMove)
         {
             FlipSprite();
@@ -138,5 +143,6 @@ public class PlayerController : MonoBehaviour
     {
         canMove = true;
     }
-   
+
+
 }
