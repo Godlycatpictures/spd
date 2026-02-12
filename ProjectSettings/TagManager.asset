@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Enemy
   - EnemyBlock
+  - Gnome
   layers:
   - Default
   - TransparentFX
