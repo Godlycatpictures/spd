@@ -3034,6 +3034,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 135d1258c35084340a44b0c1ac86c1aa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PickupController
+  sceneInfo: {fileID: 11400000, guid: 8162231a79e4caf4e95c894bb512d195, type: 2}
 --- !u!1 &1623049825
 GameObject:
   m_ObjectHideFlags: 0

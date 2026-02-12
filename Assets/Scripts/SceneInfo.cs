@@ -22,6 +22,10 @@ public class SceneInfo : ScriptableObject
     {
         return killedWizards;
     }
+    public void AddWizard()
+    {
+        killedWizards++;
+    }
     public int GetGnomes()
     {
         return collectedGnomes;
