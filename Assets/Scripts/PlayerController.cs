@@ -100,19 +100,21 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (isClimbing)
+        if (isClimbing) //klättra
         {
             rgbd.gravityScale = 0f;
             rgbd.linearVelocity = new Vector2(rgbd.linearVelocity.x, verticalValue * speed);
         }
         else
         {
+            
             rgbd.gravityScale = 1f;
         }
 
         if (!canMove) // fancy smancy
             return;
-
+        
+        // väsnter höger
         rgbd.linearVelocity = new Vector2(horizontalValue * moveSpeed, rgbd.linearVelocity.y);
     }
     
@@ -187,6 +189,7 @@ public class PlayerController : MonoBehaviour
         {
             isLaddered = false;
             isClimbing = false;
+            rgbd.linearVelocity = new Vector2(rgbd.linearVelocity.x, verticalValue * 0);
         }
     }
 }
