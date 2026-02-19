@@ -5,6 +5,8 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
+    //ändrad från tutorialen, bored bara ha saker med movement och animation för movement.
+
     // Movement
     private float horizontalValue;
     private float verticalValue;
@@ -37,6 +39,7 @@ public class PlayerController : MonoBehaviour
 
     //typ mer komponenter
     private Rigidbody2D rgbd;
+    private Animator anim;
     private SpriteRenderer rend;
 
     // movement
@@ -64,6 +67,7 @@ public class PlayerController : MonoBehaviour
         EnableMovement();
         rgbd = GetComponent<Rigidbody2D>();
         rend = GetComponent<SpriteRenderer>();
+        anim = GetComponent<Animator>();
 
     }
 
