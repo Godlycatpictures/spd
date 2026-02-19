@@ -1,6 +1,6 @@
 using UnityEditor;
 using UnityEngine;
-using static Unity.VectorGraphics.SVGParser;
+
 using UnityEngine.UI;
 using UnityEngine.SceneManagement;
 
@@ -21,7 +21,7 @@ public class HealthScript : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
-        sceneInfo = AssetDatabase.LoadAssetAtPath<SceneInfo>("Assets/Scripts/SceneInfo.asset");
+        //sceneInfo = AssetDatabase.LoadAssetAtPath<SceneInfo>("Assets/Scripts/SceneInfo.asset");
         
     }
     private void FixedUpdate()

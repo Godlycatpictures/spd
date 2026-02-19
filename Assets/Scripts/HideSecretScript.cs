@@ -7,7 +7,7 @@ public class HideSecretScript : MonoBehaviour
 
     private Tilemap tilemap;
     private Color color;
-    private float transparency = 1f;
+
     [SerializeField]private float transitionSpeed = 1f;
     private Coroutine fadeCoroutine;
 
