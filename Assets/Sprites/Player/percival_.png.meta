@@ -340,12 +340,12 @@ TextureImporter:
       name: percival__0
       rect:
         serializedVersion: 2
-        x: 8
-        y: 291
-        width: 15
-        height: 21
+        x: 9
+        y: 292
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -362,12 +362,12 @@ TextureImporter:
       name: percival__1
       rect:
         serializedVersion: 2
-        x: 40
-        y: 291
-        width: 15
-        height: 20
+        x: 41
+        y: 292
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -384,12 +384,12 @@ TextureImporter:
       name: percival__2
       rect:
         serializedVersion: 2
-        x: 72
-        y: 291
-        width: 15
-        height: 20
+        x: 73
+        y: 292
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -406,12 +406,12 @@ TextureImporter:
       name: percival__3
       rect:
         serializedVersion: 2
-        x: 104
-        y: 291
-        width: 15
-        height: 20
+        x: 105
+        y: 292
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -428,12 +428,12 @@ TextureImporter:
       name: percival__4
       rect:
         serializedVersion: 2
-        x: 137
-        y: 291
-        width: 15
-        height: 21
+        x: 138
+        y: 292
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -450,12 +450,12 @@ TextureImporter:
       name: percival__5
       rect:
         serializedVersion: 2
-        x: 169
-        y: 291
-        width: 15
-        height: 20
+        x: 170
+        y: 292
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -472,12 +472,12 @@ TextureImporter:
       name: percival__6
       rect:
         serializedVersion: 2
-        x: 201
-        y: 291
-        width: 15
-        height: 20
+        x: 202
+        y: 292
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -494,12 +494,12 @@ TextureImporter:
       name: percival__7
       rect:
         serializedVersion: 2
-        x: 233
-        y: 291
-        width: 15
-        height: 20
+        x: 234
+        y: 292
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -516,12 +516,12 @@ TextureImporter:
       name: percival__8
       rect:
         serializedVersion: 2
-        x: 7
-        y: 259
-        width: 16
-        height: 20
+        x: 8
+        y: 260
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -538,12 +538,12 @@ TextureImporter:
       name: percival__9
       rect:
         serializedVersion: 2
-        x: 40
-        y: 259
-        width: 15
-        height: 20
+        x: 41
+        y: 260
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -560,12 +560,12 @@ TextureImporter:
       name: percival__10
       rect:
         serializedVersion: 2
-        x: 72
-        y: 259
-        width: 15
-        height: 20
+        x: 73
+        y: 260
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -582,12 +582,12 @@ TextureImporter:
       name: percival__11
       rect:
         serializedVersion: 2
-        x: 104
-        y: 259
-        width: 15
-        height: 20
+        x: 105
+        y: 260
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -604,12 +604,12 @@ TextureImporter:
       name: percival__12
       rect:
         serializedVersion: 2
-        x: 137
-        y: 259
-        width: 16
-        height: 20
+        x: 138
+        y: 260
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -626,12 +626,12 @@ TextureImporter:
       name: percival__13
       rect:
         serializedVersion: 2
-        x: 169
-        y: 259
-        width: 15
-        height: 20
+        x: 170
+        y: 260
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -648,12 +648,12 @@ TextureImporter:
       name: percival__14
       rect:
         serializedVersion: 2
-        x: 201
-        y: 259
-        width: 15
-        height: 20
+        x: 202
+        y: 260
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -670,12 +670,12 @@ TextureImporter:
       name: percival__15
       rect:
         serializedVersion: 2
-        x: 233
-        y: 259
-        width: 15
-        height: 20
+        x: 234
+        y: 260
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -692,12 +692,12 @@ TextureImporter:
       name: percival__16
       rect:
         serializedVersion: 2
-        x: 7
-        y: 227
-        width: 16
-        height: 20
+        x: 8
+        y: 228
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -714,12 +714,12 @@ TextureImporter:
       name: percival__17
       rect:
         serializedVersion: 2
-        x: 40
-        y: 227
-        width: 15
-        height: 20
+        x: 41
+        y: 228
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -736,12 +736,12 @@ TextureImporter:
       name: percival__18
       rect:
         serializedVersion: 2
-        x: 72
-        y: 227
-        width: 15
-        height: 20
+        x: 73
+        y: 228
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -758,12 +758,12 @@ TextureImporter:
       name: percival__19
       rect:
         serializedVersion: 2
-        x: 104
-        y: 227
-        width: 15
-        height: 20
+        x: 105
+        y: 228
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -780,19 +780,19 @@ TextureImporter:
       name: percival__20
       rect:
         serializedVersion: 2
-        x: 137
-        y: 227
-        width: 16
-        height: 20
+        x: 138
+        y: 228
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ec2b64995a0380a30800000000000000
+      spriteID: 549db50850a132f41a7d3e8221a57ef5
       internalID: 4181645741812789966
       vertices: []
       indices: 
@@ -802,19 +802,19 @@ TextureImporter:
       name: percival__21
       rect:
         serializedVersion: 2
-        x: 169
-        y: 227
-        width: 15
-        height: 20
+        x: 170
+        y: 228
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f0e3c984155cb4930800000000000000
+      spriteID: 527c32b3c2a20b94799552f8ae7c29e9
       internalID: 4128610436316413455
       vertices: []
       indices: 
@@ -824,19 +824,19 @@ TextureImporter:
       name: percival__22
       rect:
         serializedVersion: 2
-        x: 201
-        y: 227
-        width: 15
-        height: 20
+        x: 202
+        y: 228
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: da46e507e253157e0800000000000000
+      spriteID: 14b426e458473734db242295ba5772dd
       internalID: -1778581904264633171
       vertices: []
       indices: 
@@ -846,19 +846,19 @@ TextureImporter:
       name: percival__23
       rect:
         serializedVersion: 2
-        x: 233
-        y: 227
-        width: 15
-        height: 20
+        x: 234
+        y: 228
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 575b177452c531370800000000000000
+      spriteID: 21f350e9a8ee02b49a8bfc3629f37e8f
       internalID: 8292072654101394805
       vertices: []
       indices: 
@@ -868,19 +868,19 @@ TextureImporter:
       name: percival__24
       rect:
         serializedVersion: 2
-        x: 7
-        y: 196
-        width: 16
-        height: 19
+        x: 8
+        y: 197
+        width: 14
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 772e1d9ff20abd110800000000000000
+      spriteID: cf032975344540945b3f5059875eb912
       internalID: 1286798246459597431
       vertices: []
       indices: 
@@ -890,19 +890,19 @@ TextureImporter:
       name: percival__25
       rect:
         serializedVersion: 2
-        x: 40
-        y: 195
-        width: 15
-        height: 20
+        x: 41
+        y: 196
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 77804d2dc8f58f760800000000000000
+      spriteID: cab3f700c4453e34593bfbbc55b13511
       internalID: 7491843038567991415
       vertices: []
       indices: 
@@ -912,19 +912,19 @@ TextureImporter:
       name: percival__26
       rect:
         serializedVersion: 2
-        x: 72
-        y: 195
-        width: 15
-        height: 20
+        x: 73
+        y: 196
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: eddf15e9294d9d020800000000000000
+      spriteID: 41726df5940193a4ba0811e2458eeb2e
       internalID: 2367156805346393566
       vertices: []
       indices: 
@@ -934,19 +934,19 @@ TextureImporter:
       name: percival__27
       rect:
         serializedVersion: 2
-        x: 104
-        y: 195
-        width: 15
-        height: 20
+        x: 105
+        y: 196
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 8e61d0eee24c13410800000000000000
+      spriteID: de632db148043fc4fad19931ea57f784
       internalID: 1455159860458755816
       vertices: []
       indices: 
@@ -956,19 +956,19 @@ TextureImporter:
       name: percival__28
       rect:
         serializedVersion: 2
-        x: 137
-        y: 196
-        width: 16
-        height: 19
+        x: 138
+        y: 197
+        width: 14
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ed071a16cfc102f50800000000000000
+      spriteID: b3a6f65dbcdc39c4dade3f7a198c7286
       internalID: 6854510503153201374
       vertices: []
       indices: 
@@ -978,19 +978,19 @@ TextureImporter:
       name: percival__29
       rect:
         serializedVersion: 2
-        x: 169
-        y: 195
-        width: 15
-        height: 20
+        x: 170
+        y: 196
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 28c183f08dd7d40b0800000000000000
+      spriteID: 08c1f2e37a731ee448e0d2451ec3af45
       internalID: -5742795582905770878
       vertices: []
       indices: 
@@ -1000,19 +1000,19 @@ TextureImporter:
       name: percival__30
       rect:
         serializedVersion: 2
-        x: 201
-        y: 195
-        width: 15
-        height: 20
+        x: 202
+        y: 196
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9a294d2843b11ac20800000000000000
+      spriteID: 310ed6f0d08173748b067df5fbb6727c
       internalID: 3215881521266463401
       vertices: []
       indices: 
@@ -1022,19 +1022,19 @@ TextureImporter:
       name: percival__31
       rect:
         serializedVersion: 2
-        x: 233
-        y: 195
-        width: 15
-        height: 20
+        x: 234
+        y: 196
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2834b8525ac96ca50800000000000000
+      spriteID: 90c8ca94a79c42a4faad58ba57e6e87a
       internalID: 6541087741915644802
       vertices: []
       indices: 
@@ -1044,19 +1044,19 @@ TextureImporter:
       name: percival__32
       rect:
         serializedVersion: 2
-        x: 7
-        y: 163
-        width: 16
-        height: 20
+        x: 8
+        y: 164
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 156dd5007a9f0eaf0800000000000000
+      spriteID: 72ba9e632d777b24d88e08eaaae61dc7
       internalID: -369020673783376303
       vertices: []
       indices: 
@@ -1066,19 +1066,19 @@ TextureImporter:
       name: percival__33
       rect:
         serializedVersion: 2
-        x: 40
-        y: 163
-        width: 15
-        height: 20
+        x: 41
+        y: 164
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 575dcd59a7cba1ad0800000000000000
+      spriteID: 643ae0bb78e6f2a479ce87402955bb96
       internalID: -2730662989360474763
       vertices: []
       indices: 
@@ -1088,19 +1088,19 @@ TextureImporter:
       name: percival__34
       rect:
         serializedVersion: 2
-        x: 72
-        y: 163
-        width: 15
-        height: 20
+        x: 73
+        y: 164
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: fd9ba1a72302d8c70800000000000000
+      spriteID: e5431e79db415d941b9ac2d16775ab0a
       internalID: 8974865033588292063
       vertices: []
       indices: 
@@ -1110,19 +1110,19 @@ TextureImporter:
       name: percival__35
       rect:
         serializedVersion: 2
-        x: 104
-        y: 163
-        width: 15
-        height: 20
+        x: 105
+        y: 164
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1fa4e3a6702b07af0800000000000000
+      spriteID: 77d2d5c7daa2d6d49ad52186ae67b1c9
       internalID: -400624621918991631
       vertices: []
       indices: 
@@ -1132,19 +1132,19 @@ TextureImporter:
       name: percival__36
       rect:
         serializedVersion: 2
-        x: 137
-        y: 163
-        width: 16
-        height: 20
+        x: 138
+        y: 164
+        width: 14
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 432573b3571b1d9c0800000000000000
+      spriteID: 877d8a935e73fcc4ba64efef7d007357
       internalID: -3904144284890738124
       vertices: []
       indices: 
@@ -1154,19 +1154,19 @@ TextureImporter:
       name: percival__37
       rect:
         serializedVersion: 2
-        x: 169
-        y: 163
-        width: 15
-        height: 20
+        x: 170
+        y: 164
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 91c368f7ba7e04840800000000000000
+      spriteID: e3278ddebce6da34aa15329eab1bb269
       internalID: 5206415893005220889
       vertices: []
       indices: 
@@ -1176,19 +1176,19 @@ TextureImporter:
       name: percival__38
       rect:
         serializedVersion: 2
-        x: 201
-        y: 163
-        width: 15
-        height: 20
+        x: 202
+        y: 164
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f0b2aa977b0ac53b0800000000000000
+      spriteID: db0a30549a390024a9720e194fb4b9e3
       internalID: -5522362333182416113
       vertices: []
       indices: 
@@ -1198,19 +1198,19 @@ TextureImporter:
       name: percival__39
       rect:
         serializedVersion: 2
-        x: 233
-        y: 163
-        width: 15
-        height: 20
+        x: 234
+        y: 164
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f6184034bbe6eeb20800000000000000
+      spriteID: d88099f68e5195541bbcecc46adbeb6e
       internalID: 3165589338650345839
       vertices: []
       indices: 
@@ -1220,19 +1220,19 @@ TextureImporter:
       name: percival__40
       rect:
         serializedVersion: 2
-        x: 8
-        y: 131
-        width: 15
-        height: 21
+        x: 9
+        y: 132
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d96d02e4aea3abb70800000000000000
+      spriteID: f23c947999afc48418c762e9e256a8e1
       internalID: 8915503190340851357
       vertices: []
       indices: 
@@ -1242,19 +1242,19 @@ TextureImporter:
       name: percival__41
       rect:
         serializedVersion: 2
-        x: 40
-        y: 131
-        width: 15
-        height: 20
+        x: 41
+        y: 132
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 30de131d8b74881f0800000000000000
+      spriteID: c7bef732c1fb086458afb9f665635724
       internalID: -1042504454627005181
       vertices: []
       indices: 
@@ -1264,19 +1264,19 @@ TextureImporter:
       name: percival__42
       rect:
         serializedVersion: 2
-        x: 72
-        y: 131
-        width: 15
-        height: 17
+        x: 73
+        y: 132
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f0e72592da7b27b30800000000000000
+      spriteID: e9b1d431aa66f5f49b86f2866018086e
       internalID: 4283688149933260303
       vertices: []
       indices: 
@@ -1286,19 +1286,19 @@ TextureImporter:
       name: percival__43
       rect:
         serializedVersion: 2
-        x: 105
-        y: 130
-        width: 17
-        height: 15
+        x: 106
+        y: 131
+        width: 15
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 989f5ff9932079c60800000000000000
+      spriteID: 94133123d06fafa4e8d5e2b1bd94cfb4
       internalID: 7824725324099615113
       vertices: []
       indices: 
@@ -1308,19 +1308,19 @@ TextureImporter:
       name: percival__44
       rect:
         serializedVersion: 2
-        x: 137
-        y: 131
-        width: 15
-        height: 21
+        x: 138
+        y: 132
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a24c4b8b8c97d7b80800000000000000
+      spriteID: c29499e8051a5ad4dbf41aa112a3e941
       internalID: -8395420227349461974
       vertices: []
       indices: 
@@ -1330,19 +1330,19 @@ TextureImporter:
       name: percival__45
       rect:
         serializedVersion: 2
-        x: 169
-        y: 131
-        width: 15
-        height: 20
+        x: 170
+        y: 132
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a352741095e4b8c90800000000000000
+      spriteID: 94f0ccf214f272e469d3bca992c1b243
       internalID: -7166548237849516742
       vertices: []
       indices: 
@@ -1352,19 +1352,19 @@ TextureImporter:
       name: percival__46
       rect:
         serializedVersion: 2
-        x: 201
-        y: 131
-        width: 15
-        height: 17
+        x: 202
+        y: 132
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f747bca69d3a4d20800000000000000
+      spriteID: 7b74c1439d7d53e479d8b8073da78429
       internalID: 3263488597335427063
       vertices: []
       indices: 
@@ -1374,19 +1374,19 @@ TextureImporter:
       name: percival__47
       rect:
         serializedVersion: 2
-        x: 230
-        y: 130
-        width: 17
-        height: 15
+        x: 231
+        y: 131
+        width: 15
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3ddcac8c1d86e8820800000000000000
+      spriteID: 03e4d549ed344d342989bc69f0424234
       internalID: 2922388458436218323
       vertices: []
       indices: 
@@ -1396,19 +1396,19 @@ TextureImporter:
       name: percival__48
       rect:
         serializedVersion: 2
-        x: 9
-        y: 98
-        width: 15
-        height: 17
+        x: 10
+        y: 99
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: d005e6caada391260800000000000000
+      spriteID: 86d9c8e51a66e7a429d595d0ce71f5bf
       internalID: 7068745801004896269
       vertices: []
       indices: 
@@ -1418,19 +1418,19 @@ TextureImporter:
       name: percival__49
       rect:
         serializedVersion: 2
-        x: 39
-        y: 97
-        width: 17
-        height: 15
+        x: 40
+        y: 98
+        width: 15
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3ec3c194574443900800000000000000
+      spriteID: e387eeed3b1484044bea9d3fe00f4818
       internalID: 663230315658755299
       vertices: []
       indices: 
@@ -1440,19 +1440,19 @@ TextureImporter:
       name: percival__50
       rect:
         serializedVersion: 2
-        x: 72
-        y: 99
-        width: 15
-        height: 17
+        x: 73
+        y: 100
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 86de52543c39f9f60800000000000000
+      spriteID: e7b841469bffd39408a0e30f1bf6674f
       internalID: 8043309926395014504
       vertices: []
       indices: 
@@ -1462,19 +1462,19 @@ TextureImporter:
       name: percival__51
       rect:
         serializedVersion: 2
-        x: 104
-        y: 99
-        width: 15
-        height: 19
+        x: 105
+        y: 100
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9c49d5892ea3e6050800000000000000
+      spriteID: d70e120ba657f284bad57f6f3a46263e
       internalID: 5795634515365696713
       vertices: []
       indices: 
@@ -1484,19 +1484,19 @@ TextureImporter:
       name: percival__52
       rect:
         serializedVersion: 2
-        x: 136
-        y: 98
-        width: 15
-        height: 17
+        x: 137
+        y: 99
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e11d87a34a9154d20800000000000000
+      spriteID: 81d541957e3d0b340b5ac2a109ea479c
       internalID: 3262041698246119710
       vertices: []
       indices: 
@@ -1506,19 +1506,19 @@ TextureImporter:
       name: percival__53
       rect:
         serializedVersion: 2
-        x: 168
-        y: 97
-        width: 17
-        height: 15
+        x: 169
+        y: 98
+        width: 15
+        height: 13
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: ee7237b7dc2d57390800000000000000
+      spriteID: c8b51f666daa6974cae530c13603264a
       internalID: -7821113397877725202
       vertices: []
       indices: 
@@ -1528,19 +1528,19 @@ TextureImporter:
       name: percival__54
       rect:
         serializedVersion: 2
-        x: 201
-        y: 99
-        width: 15
-        height: 17
+        x: 202
+        y: 100
+        width: 13
+        height: 15
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 6e9670fe71818c980800000000000000
+      spriteID: c3feeed6d633bb54d9df6d489e52ca53
       internalID: -8518532204097738266
       vertices: []
       indices: 
@@ -1550,19 +1550,19 @@ TextureImporter:
       name: percival__55
       rect:
         serializedVersion: 2
-        x: 233
-        y: 99
-        width: 15
-        height: 19
+        x: 234
+        y: 100
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 7f789fecf26982c70800000000000000
+      spriteID: 57910a92420e083409ffcc18e815acbb
       internalID: 8946565791851579383
       vertices: []
       indices: 
@@ -1572,19 +1572,19 @@ TextureImporter:
       name: percival__56
       rect:
         serializedVersion: 2
-        x: 8
-        y: 67
-        width: 15
-        height: 21
+        x: 9
+        y: 68
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 09b1e9530a0985e80800000000000000
+      spriteID: 3ef273b5f7efefa4d83342946073003f
       internalID: -8189636904604525680
       vertices: []
       indices: 
@@ -1594,19 +1594,19 @@ TextureImporter:
       name: percival__57
       rect:
         serializedVersion: 2
-        x: 41
-        y: 67
-        width: 14
-        height: 20
+        x: 42
+        y: 68
+        width: 12
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 1ecc883a962adafe0800000000000000
+      spriteID: 41d97b8c27adfb94e9486a15f3f256fc
       internalID: -1176105353074914079
       vertices: []
       indices: 
@@ -1616,19 +1616,19 @@ TextureImporter:
       name: percival__58
       rect:
         serializedVersion: 2
-        x: 73
-        y: 67
-        width: 15
-        height: 20
+        x: 74
+        y: 68
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: f2d058aa9067c7700800000000000000
+      spriteID: bdfcfb9b6c664c24fa95fcdcc919257f
       internalID: 539435839265246511
       vertices: []
       indices: 
@@ -1638,19 +1638,19 @@ TextureImporter:
       name: percival__59
       rect:
         serializedVersion: 2
-        x: 105
-        y: 67
-        width: 15
-        height: 20
+        x: 106
+        y: 68
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 5224da73f3496d720800000000000000
+      spriteID: fa5fceb8f79d7af4a9954a99f03df42f
       internalID: 2870644811733221925
       vertices: []
       indices: 
@@ -1660,19 +1660,19 @@ TextureImporter:
       name: percival__60
       rect:
         serializedVersion: 2
-        x: 137
-        y: 67
-        width: 15
-        height: 21
+        x: 138
+        y: 68
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2229b3c9c01296f60800000000000000
+      spriteID: 2a307d7e21a6adf4c9cf045de344352b
       internalID: 8027984148809093666
       vertices: []
       indices: 
@@ -1682,19 +1682,19 @@ TextureImporter:
       name: percival__61
       rect:
         serializedVersion: 2
-        x: 169
-        y: 67
-        width: 14
-        height: 20
+        x: 170
+        y: 68
+        width: 12
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 666bc9afa9ef49a70800000000000000
+      spriteID: 6051d722c82c19b4d86ab6f97afa0fa5
       internalID: 8832964710763378278
       vertices: []
       indices: 
@@ -1704,19 +1704,19 @@ TextureImporter:
       name: percival__62
       rect:
         serializedVersion: 2
-        x: 200
-        y: 67
-        width: 15
-        height: 20
+        x: 201
+        y: 68
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: bd78a0e4aaec4c0a0800000000000000
+      spriteID: c60f3e9f5e9e4f94a945712774351fb5
       internalID: -6862132701356718117
       vertices: []
       indices: 
@@ -1726,19 +1726,19 @@ TextureImporter:
       name: percival__63
       rect:
         serializedVersion: 2
-        x: 232
-        y: 67
-        width: 15
-        height: 20
+        x: 233
+        y: 68
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 595632b07cddb2cb0800000000000000
+      spriteID: 831bbe330d145cb4c8ed6c9f946e1736
       internalID: -4887569123625441899
       vertices: []
       indices: 
@@ -1748,19 +1748,19 @@ TextureImporter:
       name: percival__64
       rect:
         serializedVersion: 2
-        x: 8
-        y: 35
-        width: 15
-        height: 21
+        x: 9
+        y: 36
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 654586a21c30c56e0800000000000000
+      spriteID: 40d2f890b1b8be8428cc7a7678570047
       internalID: -1847597618953694122
       vertices: []
       indices: 
@@ -1770,19 +1770,19 @@ TextureImporter:
       name: percival__65
       rect:
         serializedVersion: 2
-        x: 39
-        y: 35
-        width: 15
-        height: 20
+        x: 40
+        y: 36
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3422ab91afecfeda0800000000000000
+      spriteID: fede5927c48814e44b108c0a0edc0ad4
       internalID: -5913280212145397181
       vertices: []
       indices: 
@@ -1792,19 +1792,19 @@ TextureImporter:
       name: percival__66
       rect:
         serializedVersion: 2
-        x: 71
-        y: 35
-        width: 15
-        height: 20
+        x: 72
+        y: 36
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9813170ccd51128b0800000000000000
+      spriteID: b997bb0decfe80548b14ddec6c8762a8
       internalID: -5178834058633727607
       vertices: []
       indices: 
@@ -1814,19 +1814,19 @@ TextureImporter:
       name: percival__67
       rect:
         serializedVersion: 2
-        x: 103
-        y: 35
-        width: 15
-        height: 20
+        x: 104
+        y: 36
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 983e6190c2b88c4b0800000000000000
+      spriteID: bf42cce1a123226459265bc2bb394157
       internalID: -5419929130293075063
       vertices: []
       indices: 
@@ -1836,19 +1836,19 @@ TextureImporter:
       name: percival__68
       rect:
         serializedVersion: 2
-        x: 137
-        y: 35
-        width: 15
-        height: 21
+        x: 138
+        y: 36
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: a71d9b9d896dc82d0800000000000000
+      spriteID: a5c9791d64668a948b1c2e785af08ef9
       internalID: -3275006877028986502
       vertices: []
       indices: 
@@ -1858,19 +1858,19 @@ TextureImporter:
       name: percival__69
       rect:
         serializedVersion: 2
-        x: 170
-        y: 35
-        width: 15
-        height: 20
+        x: 171
+        y: 36
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 2c063e8799c7511d0800000000000000
+      spriteID: 99980c34281bfb148ac4a1cfcb82f891
       internalID: -3380658946671681342
       vertices: []
       indices: 
@@ -1880,19 +1880,19 @@ TextureImporter:
       name: percival__70
       rect:
         serializedVersion: 2
-        x: 202
-        y: 35
-        width: 15
-        height: 20
+        x: 203
+        y: 36
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: e0d9fa6d13addf550800000000000000
+      spriteID: 7f7190a1eb8082f4988dae36bf099d6b
       internalID: 6196348569921756430
       vertices: []
       indices: 
@@ -1902,19 +1902,19 @@ TextureImporter:
       name: percival__71
       rect:
         serializedVersion: 2
-        x: 234
-        y: 35
-        width: 15
-        height: 20
+        x: 235
+        y: 36
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 23829d03f7726b230800000000000000
+      spriteID: 91c4e690bb5f98f40bcf6c6d93484fe4
       internalID: 3654151574891604018
       vertices: []
       indices: 
@@ -1924,19 +1924,19 @@ TextureImporter:
       name: percival__72
       rect:
         serializedVersion: 2
-        x: 8
-        y: 3
-        width: 15
-        height: 21
+        x: 9
+        y: 4
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 63b9929666383ce00800000000000000
+      spriteID: f352b6bec42f4544d9abee595478e6fe
       internalID: 1063838412863806262
       vertices: []
       indices: 
@@ -1946,19 +1946,19 @@ TextureImporter:
       name: percival__73
       rect:
         serializedVersion: 2
-        x: 40
-        y: 3
-        width: 15
-        height: 20
+        x: 41
+        y: 4
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 9db35830131f691e0800000000000000
+      spriteID: e0cd4ab2292076941a90df74aee90604
       internalID: -2191298975854412839
       vertices: []
       indices: 
@@ -1968,19 +1968,19 @@ TextureImporter:
       name: percival__74
       rect:
         serializedVersion: 2
-        x: 72
-        y: 3
-        width: 15
-        height: 19
+        x: 73
+        y: 4
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c9b8a07db9000bcc0800000000000000
+      spriteID: 877742ec95359324d8f1cd7f3b7bec65
       internalID: -3697454624743453796
       vertices: []
       indices: 
@@ -1990,19 +1990,19 @@ TextureImporter:
       name: percival__75
       rect:
         serializedVersion: 2
-        x: 106
-        y: 3
-        width: 18
-        height: 14
+        x: 107
+        y: 4
+        width: 16
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: cdb1c660f570ad090800000000000000
+      spriteID: 87e0ed42b62c4424e8e1a4344ee494aa
       internalID: -8009080882613969956
       vertices: []
       indices: 
@@ -2012,19 +2012,19 @@ TextureImporter:
       name: percival__76
       rect:
         serializedVersion: 2
-        x: 137
-        y: 3
-        width: 15
-        height: 21
+        x: 138
+        y: 4
+        width: 13
+        height: 19
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 3d2190aeafd50fdb0800000000000000
+      spriteID: a1697962dd069854c9ab30e7b29e0f5e
       internalID: -4760201473880943917
       vertices: []
       indices: 
@@ -2034,19 +2034,19 @@ TextureImporter:
       name: percival__77
       rect:
         serializedVersion: 2
-        x: 169
-        y: 3
-        width: 15
-        height: 20
+        x: 170
+        y: 4
+        width: 13
+        height: 18
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 85cf960dd08465e10800000000000000
+      spriteID: 193e07715dfb8494ba146b9456bbd403
       internalID: 2186013893303336024
       vertices: []
       indices: 
@@ -2056,19 +2056,19 @@ TextureImporter:
       name: percival__78
       rect:
         serializedVersion: 2
-        x: 201
-        y: 3
-        width: 15
-        height: 19
+        x: 202
+        y: 4
+        width: 13
+        height: 17
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: 43ddcec19228dfb30800000000000000
+      spriteID: 34f2f87e3030b454db6f561b1e99a32d
       internalID: 4322754330436099380
       vertices: []
       indices: 
@@ -2078,19 +2078,19 @@ TextureImporter:
       name: percival__79
       rect:
         serializedVersion: 2
-        x: 228
-        y: 3
-        width: 18
-        height: 14
+        x: 229
+        y: 4
+        width: 16
+        height: 12
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: -1
+      tessellationDetail: 0
       bones: []
-      spriteID: c6dc49f8c0e41a670800000000000000
+      spriteID: cf992e1c193fd1b46b65467f83dd78d1
       internalID: 8548199383581379948
       vertices: []
       indices: 
@@ -2100,7 +2100,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 9788f6abad07e6b4e92a4a9bdfde15ae
     internalID: 0
     vertices: []
     indices: 
@@ -2108,7 +2108,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       percival__0: 2600451253912492030
       percival__1: -7071719862085203269
