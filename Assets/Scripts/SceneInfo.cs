@@ -8,12 +8,14 @@ public class SceneInfo : ScriptableObject
     [SerializeField] private int collectedGnomes;
     [SerializeField] private int killedWizards;
 
+
+    
     // Metod för att tillämpa uppgraderingar på karaktären
     public void ResetSceneInfo()
     {
         collectedGnomes = 0; 
         killedWizards = 0;
-
+        
 
 
     }

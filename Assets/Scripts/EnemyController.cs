@@ -61,6 +61,8 @@ public class EnemyController : MonoBehaviour
             }
             TempCollisionDisable(); // ska inte kunna döda enemien som knuffat dig uppåt
 
+            other.gameObject.GetComponent<HealthScript>().TakeDamage(enemyDmg);
+
             //other.gameObject.GetComponent<PlayerController>().TakeDamage(enemyDmg); // skada spelaren 
 
 
@@ -91,6 +93,7 @@ public class EnemyController : MonoBehaviour
             other.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(other.GetComponent<Rigidbody2D>().linearVelocity.x, 0); // hastighet nollställs neråt så den enklare åker uppåt
             other.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, PlayerJumpOnKill)); // trampolin hoppet som ksk inte skulle användas änvands här :o
 
+            GetComponent<Animator>().SetTrigger("Killed");
             //GetComponent<Animator>().SetTrigger("Hit");
             foreach (var collider in GetComponents<CapsuleCollider2D>())
             {
