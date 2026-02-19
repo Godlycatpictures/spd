@@ -8,6 +8,9 @@ TagManager:
   - EnemyBlock
   - Gnome
   - Climb
+  - CheckPoint
+  - Deathbox
+  - MenuBox
   layers:
   - Default
   - TransparentFX

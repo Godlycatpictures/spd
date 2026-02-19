@@ -42,6 +42,11 @@ public class PlayerController : MonoBehaviour
     private Animator anim;
     private SpriteRenderer rend;
 
+    //respawn
+    private Transform CurrentSpawnpoint;
+
+
+
     // movement
     [Header("Input")]
     [SerializeField] private PlayerInput playerInput;
@@ -186,6 +191,34 @@ public class PlayerController : MonoBehaviour
         {
             isLaddered = true;
         }
+        if (other.CompareTag("CheckPoint"))
+        {
+            if(other.transform != CurrentSpawnpoint) // ny checkpoint
+            {
+                CurrentSpawnpoint = other.transform;
+            }
+        }
+        if (other.CompareTag("Deathbox"))
+        {
+            HealthScript healthScript = GetComponent<HealthScript>();
+            healthScript.TakeDamage(1);
+            Respawn();
+        }
+
+
+        //temp meun quit
+        if (other.CompareTag("MenuBox"))
+        {
+            var menu = other.gameObject.GetComponent<MainMenu>();
+            if (menu != null)
+            {
+                menu.Invoke(nameof(MainMenu.ReturnToMenu), 1.5f);
+            }
+            else
+            {
+                Debug.LogWarning("MainMenu component not found on MenuBox!");
+            }
+        }
     }
     private void OnTriggerExit2D(Collider2D other)
     {
@@ -195,5 +228,15 @@ public class PlayerController : MonoBehaviour
             isClimbing = false;
             rgbd.linearVelocity = new Vector2(rgbd.linearVelocity.x, verticalValue * 0);
         }
+    }
+
+    public void Respawn()
+    {
+        if (CurrentSpawnpoint == null)
+            return;
+
+        rgbd.linearVelocity = Vector2.zero;
+        transform.position = CurrentSpawnpoint.position;
+        EnableMovement();
     }
 }

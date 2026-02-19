@@ -2,6 +2,7 @@ using UnityEditor;
 using UnityEngine;
 using static Unity.VectorGraphics.SVGParser;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class HealthScript : MonoBehaviour
 {
@@ -34,7 +35,10 @@ public class HealthScript : MonoBehaviour
             healthImage[i].enabled = i < healthContainer;
         }
 
-
+        if (health <= 0)
+        {
+            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        }
     }
     
  
