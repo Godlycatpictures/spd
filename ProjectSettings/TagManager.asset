@@ -11,6 +11,8 @@ TagManager:
   - CheckPoint
   - Deathbox
   - MenuBox
+  - SwordPickup
+  - Sword
   layers:
   - Default
   - TransparentFX

@@ -26,6 +26,10 @@ public class PickupController : MonoBehaviour
             sceneInfo.AddGnomes();
             Destroy(other.gameObject);
         }
-        
+        if (other.CompareTag("SwordPickup"))
+        {
+            sceneInfo.HasSword(true);
+            Destroy(other.gameObject);
+        }
     }
 }
