@@ -25,9 +25,9 @@
                     "initialStateCheck": false
                 },
                 {
-                    "name": "DashRoll",
+                    "name": "Attack",
                     "type": "Button",
-                    "id": "cc2621bf-c9b5-415c-b26a-aa146a894b04",
+                    "id": "410e16e9-9cd0-4796-a949-0410ad1eaa49",
                     "expectedControlType": "",
                     "processors": "",
                     "interactions": "",
@@ -109,6 +109,28 @@
                     "processors": "",
                     "groups": "",
                     "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "66d3a556-10de-4178-9090-05fbe35b9125",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "e73a34cc-133b-4ba7-b826-178f03cbe8ef",
+                    "path": "<Keyboard>/k",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }

@@ -142,7 +142,7 @@ public class PlayerController : MonoBehaviour
         }
         
     }
-    private void CalcJumpBuffer()
+    private void CalcJumpBuffer() // calc är förlorkning till calculate, kalkylera på svenska
     {
         if (jumpAction.WasPressedThisFrame())
             jumpBufferTimer = jumpBufferTime;

@@ -21,8 +21,14 @@ public class SceneInfo : ScriptableObject
     }
     public bool HasSword(bool hasSword)
     {
+        this.hasSword = hasSword;
         return hasSword;
     }
+    public bool HasSword()
+    {
+        return hasSword;
+    }
+
 
     public int GetKilledWizards()
     {
