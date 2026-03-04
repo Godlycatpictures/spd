@@ -15,6 +15,7 @@ GameObject:
   - component: {fileID: 1842149942746494102}
   - component: {fileID: 7643349662736669192}
   - component: {fileID: 4660475829498588793}
+  - component: {fileID: 8685142743478466416}
   m_Layer: 9
   m_Name: EvilWizard
   m_TagString: Enemy
@@ -246,6 +247,20 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &8685142743478466416
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2321388087537004364}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7814d8b21bc7e2b47ad71070f12c2041, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::EnemyDeath
+  rend: {fileID: 0}
+  sceneInfo: {fileID: 11400000, guid: 8162231a79e4caf4e95c894bb512d195, type: 2}
 --- !u!1 &2822713384255194710
 GameObject:
   m_ObjectHideFlags: 0

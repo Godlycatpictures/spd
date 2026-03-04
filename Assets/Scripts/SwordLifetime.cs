@@ -38,6 +38,12 @@ public class SwordLifetime : MonoBehaviour
         
         transform.rotation = direction > 0 ? Quaternion.Euler(0, 0, -90) : Quaternion.Euler(0, 0, 90);
     }
-
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+        if (other.CompareTag("Enemy"))
+        {
+            other.gameObject.GetComponent<EnemyDeath>().Die();
+        }
+    }
 
 }
