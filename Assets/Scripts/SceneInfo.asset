@@ -14,4 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::SceneInfo
   collectedGnomes: 2
   killedWizards: 0
-  hasSword: 0
+  hasSword: 1
