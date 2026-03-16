@@ -21,6 +21,7 @@ public class EnemyDeath : MonoBehaviour
             {
                 collider.enabled = false;
             }
+            
 
             Rigidbody2D rb = GetComponent<Rigidbody2D>();
             rb.gravityScale = 0;

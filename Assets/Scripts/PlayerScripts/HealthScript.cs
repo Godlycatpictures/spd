@@ -39,6 +39,7 @@ public class HealthScript : MonoBehaviour
 
         if (health <= 0)
         {
+            health = healthContainer;
             GetComponent<PlayerController>().Respawn();
         }
     }
