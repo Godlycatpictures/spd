@@ -212,7 +212,7 @@ public class PlayerController : MonoBehaviour
             var menu = other.gameObject.GetComponent<MainMenu>();
             if (menu != null)
             {
-                menu.Invoke(nameof(MainMenu.ReturnToMenu), 1.5f);
+                menu.Invoke(nameof(MainMenu.LoadNextScene), 1.5f);
             }
             else
             {
