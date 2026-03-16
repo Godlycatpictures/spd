@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 33ea3b09c3dbaf34b9456864d51a69cf, type: 3}
   m_Name: SceneInfo
   m_EditorClassIdentifier: Assembly-CSharp::SceneInfo
-  collectedGnomes: 2
+  collectedGnomes: 4
   killedWizards: 0
   hasSword: 1

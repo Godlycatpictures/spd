@@ -37,7 +37,7 @@ public class HealthScript : MonoBehaviour
 
         if (health <= 0)
         {
-            SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+            GetComponent<PlayerController>().Respawn();
         }
     }
     
