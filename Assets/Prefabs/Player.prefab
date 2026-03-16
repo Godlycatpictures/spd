@@ -255,6 +255,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PickupController
   sceneInfo: {fileID: 11400000, guid: 8162231a79e4caf4e95c894bb512d195, type: 2}
+  healthScript: {fileID: 0}
 --- !u!114 &5817937128865126227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -329,6 +330,8 @@ MonoBehaviour:
   health: 3
   healthContainer: 3
   maxHealth: 6
+  nextHealthUnlock: 0
+  nextHealhtUnlockProgress: 0
 --- !u!95 &4501891201909232609
 Animator:
   serializedVersion: 7
@@ -377,6 +380,12 @@ MonoBehaviour:
     m_SingletonActionBindings: []
     m_Flags: 0
   sceneInfo: {fileID: 11400000, guid: 8162231a79e4caf4e95c894bb512d195, type: 2}
+  playerPos: {fileID: 0}
+  offset: {x: 2, y: 0, z: 5}
+  travelDuration: 0.2
+  cooldownTime: 0.75
+  canAttack: 1
+  cooldownTimer: 0
 --- !u!1 &7110849829084451785
 GameObject:
   m_ObjectHideFlags: 0

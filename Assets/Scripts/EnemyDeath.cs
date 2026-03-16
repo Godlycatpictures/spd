@@ -12,17 +12,28 @@ public class EnemyDeath : MonoBehaviour
 
     public void Die()
     {
-        if(GetComponent<Animator>() != null)
-            GetComponent<Animator>().SetTrigger("Sword");   
-
-        foreach (var collider in GetComponents<CapsuleCollider2D>())
+        Animator animator = GetComponent<Animator>();
+        if (animator != null)
         {
-            collider.enabled = false;
+            animator.SetTrigger("Sword");
+
+            foreach (var collider in GetComponents<CapsuleCollider2D>())
+            {
+                collider.enabled = false;
+            }
+
+            Rigidbody2D rb = GetComponent<Rigidbody2D>();
+            rb.gravityScale = 0;
+            rb.linearVelocity = Vector2.zero;
         }
+        else
+        {
+            Destroy(gameObject);
+        }
+    }
 
-        GetComponent<Rigidbody2D>().gravityScale = 0; // inte röra sig
-        GetComponent<Rigidbody2D>().linearVelocity = Vector2.zero;
-
-        Destroy(gameObject, 0.5f); // delay
+    public void OnDeathAnimationComplete()
+    {
+        Destroy(gameObject);
     }
 }
