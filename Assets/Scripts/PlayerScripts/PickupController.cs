@@ -39,6 +39,7 @@ public class PickupController : MonoBehaviour
 
     private void GnomeHealth()
     {
+        healthScript.gotGnome();
         healthScript.HealUp(1);
         // om = 5 gnomes så ska vi läga till en health container
             

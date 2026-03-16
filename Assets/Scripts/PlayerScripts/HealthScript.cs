@@ -17,6 +17,8 @@ public class HealthScript : MonoBehaviour
     [SerializeField] private int health;
     [SerializeField] private int healthContainer;
     [SerializeField] private int maxHealth = 6;
+    [SerializeField] private int nextHealthUnlock;
+    [SerializeField] private int nextHealhtUnlockProgress;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -27,7 +29,7 @@ public class HealthScript : MonoBehaviour
     private void FixedUpdate()
     {
         if (health > healthContainer)
-            healthContainer = health;
+            health = healthContainer;
 
         for (int i = 0; i < healthImage.Length; i++)
         {
@@ -47,9 +49,17 @@ public class HealthScript : MonoBehaviour
         health -= damage;
     }
     public void HealUp(int healthUp)
-    {
-        health += healthUp;
+    { 
+        health += healthUp;            
     }
+
+    public void gotGnome()
+    {
+        nextHealhtUnlockProgress += 1;
+    }
+
+
+
     public void AddHealthContainer()
     {
         healthContainer++;
