@@ -708,6 +708,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 20.965
@@ -746,6 +762,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -1476,6 +1500,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 70.12804
@@ -1514,6 +1554,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4035,6 +4083,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 71.542435
@@ -4073,6 +4129,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4309,6 +4373,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 18.470753
@@ -4347,6 +4419,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4524,6 +4604,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 63.51367
@@ -4562,6 +4658,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -4834,6 +4938,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 71.98957
@@ -4872,6 +4984,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5438,6 +5558,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 18.87
@@ -5476,6 +5612,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5884,6 +6028,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 63.9
@@ -5922,6 +6082,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6283,6 +6451,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 53.489677
@@ -6321,6 +6497,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6397,6 +6581,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 75.74384
@@ -6435,6 +6635,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -6777,6 +6985,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 69.35
@@ -6815,6 +7031,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -11643,6 +11867,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 50.39408
@@ -11683,6 +11923,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11699,6 +11947,14 @@ PrefabInstance:
     - target: {fileID: 1137549376684530340, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_Name
       value: ShortWoodenPlatform
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
@@ -11738,6 +11994,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -11913,6 +12177,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: -2.13
@@ -11953,6 +12225,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -11974,6 +12254,14 @@ PrefabInstance:
     - target: {fileID: 1137549376684530340, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_Name
       value: ShortWoodenPlatform (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
@@ -12013,6 +12301,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -12331,6 +12627,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 54.6
@@ -12369,6 +12673,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -12599,6 +12911,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 56.15
@@ -12637,6 +12965,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -13342,6 +13678,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: ShortWoodenPlatform (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalPosition.x
       value: 21.537
@@ -13380,6 +13724,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 64bccc4addd89fc46a1e3b3a82e34131, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -21294,6 +21646,22 @@ PrefabInstance:
       propertyPath: m_Name
       value: Wooden Platform (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
       value: 70.22
@@ -21334,6 +21702,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21355,6 +21731,22 @@ PrefabInstance:
     - target: {fileID: 1137549376684530340, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_Name
       value: Wooden Platform
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21396,6 +21788,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21412,6 +21812,22 @@ PrefabInstance:
     - target: {fileID: 1137549376684530340, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_Name
       value: Wooden Platform (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3130392498506557815, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4873929818409837028, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalPosition.x
@@ -21451,6 +21867,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5424483131574278520, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayer
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7438638242689208957, guid: 02b1e8b7fcdfbbc4890a9f28dff804f0, type: 3}
+      propertyPath: m_SortingLayerID
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
