@@ -13,19 +13,26 @@ public class PauseMenu : MonoBehaviour
 
     private void Awake()
     {
-        playerInput = GetComponent<PlayerInput>();
+        playerInput = GameObject.FindWithTag("Player").GetComponent<PlayerInput>();
         pauseAction = playerInput.actions["Pause"];
 
         pauseAction.performed += OnPausePerformed;
 
     }
-    private void Start()
+    private void OnEnable()
     {
-        playerInput = GetComponent<PlayerInput>();
-        pauseAction = playerInput.actions["Pause"];
+        if (pauseAction != null)
+        {
+            pauseAction.Enable();
+        }
+    }
 
-        pauseAction.performed += OnPausePerformed;
-
+    private void OnDisable()
+    {
+        if (pauseAction != null)
+        {
+            pauseAction.Disable();
+        }
     }
     private void OnPausePerformed(InputAction.CallbackContext context)
     {
