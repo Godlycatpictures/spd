@@ -80,7 +80,7 @@ public class PlayerController : MonoBehaviour
     {
         moveValue = moveAction.ReadValue<Vector2>();
         verticalValue = moveValue.y;
-        horizontalValue = moveValue.x;
+        //horizontalValue = moveValue.x;
         
         if (isLaddered && Mathf.Abs(verticalValue) > 0f)
         {
@@ -89,13 +89,13 @@ public class PlayerController : MonoBehaviour
         if (canMove)
         {
             FlipSprite();
-            CalcJumpBuffer();
-            CalcCoyoteTime();
-            Jump();
+            
+            //Jump();
         }
         
     }
 
+    
     private void FlipSprite()
     {
         
@@ -127,11 +127,32 @@ public class PlayerController : MonoBehaviour
         rgbd.linearVelocity = new Vector2(horizontalValue * moveSpeed, rgbd.linearVelocity.y);
     }
     
+    public void MoveLeft()
+    {
+        horizontalValue = -1;
+    }
+
+    public void MoveRight()
+    {
+        horizontalValue = 1;
+    }
+
+    public void ResetMove()
+        { horizontalValue = 0; }
+
+    public void TouchJump()
+    {
+        Debug.Log(" touch jump ");
+        
+        Jump();
+        Debug.Log(" jump ");
+    }
+
     private void Jump()
     {
         // hopp
-        if (jumpBufferTimer > 0f && coyoteTimer > 0f) // nya systemet är långt
-        {
+        
+            Debug.Log(" borde hoppa ");
             Vector2 v = rgbd.linearVelocity;
             v.y = 0f;
             rgbd.linearVelocity = v;
@@ -139,7 +160,7 @@ public class PlayerController : MonoBehaviour
 
             coyoteTimer = 0f; // kunde nästan dubbelhoppa
             jumpBufferTimer = 0f;
-        }
+        
         
     }
     private void CalcJumpBuffer() // calc är förlorkning till calculate, kalkylera på svenska
