@@ -5,7 +5,7 @@ public class GhostController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 2f;
     [SerializeField] private SpriteRenderer rend;
-    [SerializeField] private float TempDamagePrevention = 1f; // ska inte råka dö av att stå i en spöke
+    [SerializeField] private float TempDamagePrevention = 1f; // ska inte rï¿½ka dï¿½ av att stï¿½ i en spï¿½ke
     [SerializeField] private int enemyDmg = 1; // hur mkt skada spelren tar
 
     [SerializeField] private bool canMove = true;
@@ -29,12 +29,12 @@ public class GhostController : MonoBehaviour
         if (other.gameObject.CompareTag("EnemyBlock"))
         {
 
-            moveSpeed = -moveSpeed; // "låter logiskt, det är väl logiskt"
+            moveSpeed = -moveSpeed; // "lï¿½ter logiskt, det ï¿½r vï¿½l logiskt"
         }
 
         if (other.gameObject.CompareTag("Enemy"))
         {
-            moveSpeed = -moveSpeed; // "låter logiskt, det är väl logiskt"
+            moveSpeed = -moveSpeed; // "lï¿½ter logiskt, det ï¿½r vï¿½l logiskt"
         }
 
         if (other.gameObject.CompareTag("Player"))

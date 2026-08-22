@@ -7,6 +7,7 @@ public class PickupController : MonoBehaviour
 
     [SerializeField] private SceneInfo sceneInfo;
     [SerializeField] private HealthScript healthScript;
+    [SerializeField] private AudioClip pickupSFX;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -26,6 +27,7 @@ public class PickupController : MonoBehaviour
         if (other.CompareTag("Gnome"))
         {
             sceneInfo.AddGnomes();
+            AudioManager.Instance.PlaySFX(pickupSFX);
             GnomeHealth();
 
             Destroy(other.gameObject);
@@ -33,6 +35,7 @@ public class PickupController : MonoBehaviour
         if (other.CompareTag("SwordPickup"))
         {
             sceneInfo.HasSword(true);
+            AudioManager.Instance.PlaySFX(pickupSFX);
             Destroy(other.gameObject);
         }
     }
@@ -41,7 +44,7 @@ public class PickupController : MonoBehaviour
     {
         healthScript.gotGnome();
         healthScript.HealUp(1);
-        // om = 5 gnomes så ska vi läga till en health container
+        // om = 5 gnomes sï¿½ ska vi lï¿½ga till en health container
             
      }
 }

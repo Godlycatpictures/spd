@@ -3,6 +3,7 @@ using UnityEngine;
 public class EnemyDeath : MonoBehaviour
 {
     [SerializeField] private SpriteRenderer rend;
+    [SerializeField] private AudioClip hitSFX;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -16,6 +17,7 @@ public class EnemyDeath : MonoBehaviour
         if (animator != null)
         {
             animator.SetTrigger("Sword");
+            AudioManager.Instance.PlaySFX(hitSFX);
 
             foreach (var collider in GetComponents<CapsuleCollider2D>())
             {

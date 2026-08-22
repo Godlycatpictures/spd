@@ -4,13 +4,15 @@ public class SwordLifetime : MonoBehaviour
 {
     [SerializeField] private float lifetime = 1.5f;
     [SerializeField] private AnimationCurve movementCurve = AnimationCurve.EaseInOut(0, 0, 1, 1);
-    
+
     private float direction;
     private float maxDistance;
     private float travelDuration;
     private float currentTravelTime = 0f;
     private float currentLifetime = 0f;
     private bool isTraveling = true;
+
+
 
     private Transform playerTransform;
 
@@ -74,6 +76,7 @@ public class SwordLifetime : MonoBehaviour
     {
         if (other.CompareTag("Enemy"))
         {
+
             other.gameObject.GetComponent<EnemyDeath>().Die();
         }
     }

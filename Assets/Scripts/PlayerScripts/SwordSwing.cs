@@ -15,11 +15,13 @@ public class SwordSwing : MonoBehaviour
 
     [SerializeField] private SceneInfo sceneInfo;
    
-    [Header("Psotioner o sånt")]
+    [Header("Psotioner o sï¿½nt")]
     [SerializeField] private Transform playerPos;
     [SerializeField] private Vector3 offset = new Vector3(2, 0, 5);
     [SerializeField] private float travelDuration = 0.3f;
     private float lastDirection = 1;
+
+    [SerializeField] private AudioClip swingSFX;
 
     [Header("Cooldown")]
     [SerializeField] private float cooldownTime = 0.5f; 
@@ -69,6 +71,7 @@ public class SwordSwing : MonoBehaviour
                 
                 swordLifetime.Setup(playerPos, direction, offset.magnitude, travelDuration);
             }
+            AudioManager.Instance.PlaySFX(swingSFX);
 
             canAttack = false;
             cooldownTimer = cooldownTime;

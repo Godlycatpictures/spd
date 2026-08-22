@@ -13,6 +13,7 @@ public class HealthScript : MonoBehaviour
     [SerializeField] private Image[] healthImage;
     [SerializeField] private Sprite fullHealth;
     [SerializeField] private Sprite emptyHealth;
+    [SerializeField] private AudioClip healthDownSFX;
 
     [SerializeField] private int health;
     [SerializeField] private int healthContainer;
@@ -47,6 +48,7 @@ public class HealthScript : MonoBehaviour
  
     public void TakeDamage(int damage)
     {
+        AudioManager.Instance.PlaySFX(healthDownSFX);
         health -= damage;
     }
     public void HealUp(int healthUp)

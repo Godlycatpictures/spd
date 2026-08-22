@@ -5,7 +5,7 @@ using UnityEngine.InputSystem;
 
 public class PlayerController : MonoBehaviour
 {
-    //ändrad från tutorialen, bored bara ha saker med movement och animation för movement.
+    //ï¿½ndrad frï¿½n tutorialen, bored bara ha saker med movement och animation fï¿½r movement.
 
     // Movement
     private float horizontalValue;
@@ -45,7 +45,8 @@ public class PlayerController : MonoBehaviour
     //respawn
     private Transform CurrentSpawnpoint;
 
-
+    //ljud 
+    [SerializeField] private AudioClip jumpSound;
 
     // movement
     [Header("Input")]
@@ -99,7 +100,7 @@ public class PlayerController : MonoBehaviour
     private void FlipSprite()
     {
         
-        // vänster höger schabang
+        // vï¿½nster hï¿½ger schabang
         if (horizontalValue > 0)
             rend.flipX = false;
         else if (horizontalValue < 0)
@@ -109,7 +110,7 @@ public class PlayerController : MonoBehaviour
 
     private void FixedUpdate()
     {
-        if (isClimbing) //klättra
+        if (isClimbing) //klï¿½ttra
         {
             rgbd.gravityScale = 0f;
             rgbd.linearVelocity = new Vector2(rgbd.linearVelocity.x, verticalValue * speed);
@@ -123,26 +124,28 @@ public class PlayerController : MonoBehaviour
         if (!canMove) // fancy smancy
             return;
         
-        // väsnter höger
+        // vï¿½snter hï¿½ger
         rgbd.linearVelocity = new Vector2(horizontalValue * moveSpeed, rgbd.linearVelocity.y);
     }
     
     private void Jump()
     {
         // hopp
-        if (jumpBufferTimer > 0f && coyoteTimer > 0f) // nya systemet är långt
+        if (jumpBufferTimer > 0f && coyoteTimer > 0f) // nya systemet ï¿½r lï¿½ngt
         {
+            AudioManager.Instance.PlaySFX(jumpSound);
+
             Vector2 v = rgbd.linearVelocity;
             v.y = 0f;
             rgbd.linearVelocity = v;
             rgbd.AddForce(Vector2.up * jumpForce);
 
-            coyoteTimer = 0f; // kunde nästan dubbelhoppa
+            coyoteTimer = 0f; // kunde nï¿½stan dubbelhoppa
             jumpBufferTimer = 0f;
         }
         
     }
-    private void CalcJumpBuffer() // calc är förlorkning till calculate, kalkylera på svenska
+    private void CalcJumpBuffer() // calc ï¿½r fï¿½rlorkning till calculate, kalkylera pï¿½ svenska
     {
         if (jumpAction.WasPressedThisFrame())
             jumpBufferTimer = jumpBufferTime;

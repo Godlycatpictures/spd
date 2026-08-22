@@ -115,6 +115,7 @@ MonoBehaviour:
   enemyDmg: 1
   knockbackForce: 400
   upKnockback: 100
+  hitSFX: {fileID: 8300000, guid: 0481d34c4f2a1c546be5a72dec764ca8, type: 3}
 --- !u!70 &6695396230319811954
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -260,7 +261,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::EnemyDeath
   rend: {fileID: 0}
-  sceneInfo: {fileID: 11400000, guid: 8162231a79e4caf4e95c894bb512d195, type: 2}
+  hitSFX: {fileID: 8300000, guid: 0481d34c4f2a1c546be5a72dec764ca8, type: 3}
 --- !u!1 &2822713384255194710
 GameObject:
   m_ObjectHideFlags: 0

@@ -8,11 +8,12 @@ public class EnemyController : MonoBehaviour
 {
     [SerializeField] private float moveSpeed = 2f;
     [SerializeField] private SpriteRenderer rend;
-    [SerializeField] private float PlayerJumpOnKill = 100f; // hundra är ingenting
+    [SerializeField] private float PlayerJumpOnKill = 100f; // hundra ï¿½r ingenting
     [SerializeField] private int enemyDmg = 1; // hur mkt skada spelren tar
 
     [SerializeField] private float knockbackForce = 200f; // knockback kraften
     [SerializeField] private float upKnockback = 100f;
+    [SerializeField] private AudioClip hitSFX;
 
 
     private bool canMove = true;
@@ -40,26 +41,26 @@ public class EnemyController : MonoBehaviour
     {
         if (other.gameObject.CompareTag("EnemyBlock"))
         {
-            moveSpeed = -moveSpeed; // "låter logiskt, det är väl logiskt"
+            moveSpeed = -moveSpeed; // "lï¿½ter logiskt, det ï¿½r vï¿½l logiskt"
         }
 
         if (other.gameObject.CompareTag("Enemy"))
         {
-            moveSpeed = -moveSpeed; // "låter logiskt, det är väl logiskt"
+            moveSpeed = -moveSpeed; // "lï¿½ter logiskt, det ï¿½r vï¿½l logiskt"
         }
 
         if (other.gameObject.CompareTag("Player"))
         {
 
-            if (other.transform.position.x > transform.position.x) // kolla vilken sida spelaren är på
+            if (other.transform.position.x > transform.position.x) // kolla vilken sida spelaren ï¿½r pï¿½
             {
-                other.gameObject.GetComponent<PlayerController>().KnockBack(knockbackForce, upKnockback); // knockback åt höger
+                other.gameObject.GetComponent<PlayerController>().KnockBack(knockbackForce, upKnockback); // knockback ï¿½t hï¿½ger
             }
             else
             {
-                other.gameObject.GetComponent<PlayerController>().KnockBack(-knockbackForce, upKnockback); // knockback åt vänster
+                other.gameObject.GetComponent<PlayerController>().KnockBack(-knockbackForce, upKnockback); // knockback ï¿½t vï¿½nster
             }
-            TempCollisionDisable(); // ska inte kunna döda enemien som knuffat dig uppåt
+            TempCollisionDisable(); // ska inte kunna dï¿½da enemien som knuffat dig uppï¿½t
 
             other.gameObject.GetComponent<HealthScript>().TakeDamage(enemyDmg);
 
@@ -89,9 +90,10 @@ public class EnemyController : MonoBehaviour
     {
         if (other.CompareTag("Player"))
         {
-            // här ish ska ljudet spelas
-            other.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(other.GetComponent<Rigidbody2D>().linearVelocity.x, 0); // hastighet nollställs neråt så den enklare åker uppåt
-            other.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, PlayerJumpOnKill)); // trampolin hoppet som ksk inte skulle användas änvands här :o
+            AudioManager.Instance.PlaySFX(hitSFX);
+            // hï¿½r ish ska ljudet spelas
+            other.GetComponent<Rigidbody2D>().linearVelocity = new Vector2(other.GetComponent<Rigidbody2D>().linearVelocity.x, 0); // hastighet nollstï¿½lls nerï¿½t sï¿½ den enklare ï¿½ker uppï¿½t
+            other.GetComponent<Rigidbody2D>().AddForce(new Vector2(0, PlayerJumpOnKill)); // trampolin hoppet som ksk inte skulle anvï¿½ndas ï¿½nvands hï¿½r :o
 
             GetComponent<Animator>().SetTrigger("Killed");
             //GetComponent<Animator>().SetTrigger("Hit");

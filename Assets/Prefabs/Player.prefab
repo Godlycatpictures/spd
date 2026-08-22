@@ -223,6 +223,7 @@ MonoBehaviour:
   groundLayer:
     serializedVersion: 2
     m_Bits: 64
+  jumpSound: {fileID: 8300000, guid: 6cd4bc269bec2b44b9767f49e95a9170, type: 3}
   playerInput: {fileID: 0}
   jumpAction:
     m_Name: Jump
@@ -256,6 +257,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::PickupController
   sceneInfo: {fileID: 11400000, guid: 8162231a79e4caf4e95c894bb512d195, type: 2}
   healthScript: {fileID: 0}
+  pickupSFX: {fileID: 8300000, guid: 6686385f5086807448c8cff6bc0badcf, type: 3}
 --- !u!114 &5817937128865126227
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -327,6 +329,7 @@ MonoBehaviour:
   - {fileID: 0}
   fullHealth: {fileID: 3010866836345717665, guid: 67723fc4ffcaf11418a7d06e39158bba, type: 3}
   emptyHealth: {fileID: -1594876911473726327, guid: 6906931cb54a4b340b0cb6b35bfe31d7, type: 3}
+  healthDownSFX: {fileID: 8300000, guid: 7534befe39b837648b6d326ef31ceabf, type: 3}
   health: 3
   healthContainer: 3
   maxHealth: 6
@@ -383,6 +386,7 @@ MonoBehaviour:
   playerPos: {fileID: 0}
   offset: {x: 2, y: 0, z: 5}
   travelDuration: 0.2
+  swingSFX: {fileID: 0}
   cooldownTime: 0.75
   canAttack: 1
   cooldownTimer: 0
